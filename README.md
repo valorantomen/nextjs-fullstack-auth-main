@@ -1,18 +1,10 @@
-# A detailed course to undestand nextjs
-
-This long video was designed to give you an indepth understanding about latest nextjs and how it works. 
-
 ## Tech Stack
 - Nextjs
 - typescript
 - mongodb
 - mailtrap
 
-![Course Image](./nextjs.png)
-
 ---
-Available on my youtube channel
-[Youtube channel link](https://www.youtube.com/@HiteshChoudharydotcom)
 
 ## Getting Started
 
@@ -25,9 +17,7 @@ yarn dev
 # or
 pnpm dev
 ```
-## Assignment
-1. Improve the UI of the application
-2. Add feature of forgot password
+
 
 ---
 ### Hint:
@@ -39,7 +29,3 @@ For forgot password feature.
 5. Verify the token and save the new password after encrypting it.
 
 ---
-## your completed assignments
-
-- Add your repo link here
-- 
